@@ -1,0 +1,9 @@
+.git
+__pycache__/
+venv/
+data/
+temp/
+/*.json
+/*.ini
+test*
+TODO
